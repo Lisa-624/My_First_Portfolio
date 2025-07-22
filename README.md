@@ -19,7 +19,7 @@ This repository is part of my ALX Software Engineering journey and contains the 
 
 ## 🌟 Author
 
-- **Name:** [Your Name Here]
+- **Name:** [Elizabeth Wanjiru]
 - **Cohort:** [e.g., ALX SE NBO-PF-0325]
 
 ## 📌 Note
